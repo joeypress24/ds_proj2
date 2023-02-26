@@ -1,5 +1,5 @@
 
-Project 2 for data structures class, taught by Ric Crabbe
+Project 2 for data structures class, taught by Prof. Ric Crabbe
 
 https://www.usna.edu/Users/cs/crabbe/IC312/current/project/cityPop/project.html
 
